@@ -1,0 +1,35 @@
+.highlightgreen { 
+  background-color:#00944d ; 
+  color:white;}
+  
+.navbar {
+  background-color: #af2a30; /*red*/
+  border: none !important;
+}
+  
+/* navbar brand text name */
+.navbar-default .navbar-brand{
+    background-color: #af2a30; /*red*/
+    color: #ffffff;
+	  border: none !important;
+	  padding: 10px;
+}
+
+.navbar-brand:hover {
+  /*color: black !important;*/
+  background-color: none !important;
+  
+}
+
+/* Navigation bar links */
+.navbar-nav li > a {
+  color: #ffffff !important;
+  border: none !important;
+}
+
+.navbar-nav li a:hover, .navbar-nav > .active > a {
+  color: black !important;
+  background-color: #e7e7e7 !important;
+  border: none !important;
+}
+
