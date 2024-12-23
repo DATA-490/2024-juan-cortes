@@ -10,7 +10,10 @@ This project is a web application developed using Shiny, an R package for buildi
 # Purpose (including intended audience)
 
 The CFO Office Sign in Sheet captures information about walk-in student visits to the Chico State campus Student Services Center(SSC) CalFresh Outreach (CFO) office.
-The end goal was to create a Static Report using the Shiny app, data analyses, and final reports to keep track of visits to the office. This includes:
+
+The end goal was to create a Static Report using the Shiny app, data analyses, and final reports to keep track of visits to the office. 
+
+This includes:
 -Daily visits
 -Weekly visits
 -Monthly visits
