@@ -5,7 +5,7 @@
 
 # Type of project
 
-This project is a web application developed using Shiny.
+This project is a web application developed using Shiny, an R package for building interactive web applications, enabling dynamic data presentation and user interaction.
 
 # Purpose (including intended audience)
 
@@ -19,7 +19,7 @@ The end goal was to create a Static Report using the Shiny app, data analyses, a
 -Repeated Assistance
 -How They Heard About CalFresh?
 
-This project intended to help CFO Team by saving time and reducing manual data entry. In turn, it also helps Chico State students by supporting basic needs, which benefit low-income, 
+This project intended to help CFO Team by saving time and reducing manual data entry. In turn, it may also help Chico State students by supporting basic needs, which benefit low-income, 
 first-generation, and underrepresented students. Lastly, this project may aid stakeholders by delivering insights regarding Federal support.
 
 
