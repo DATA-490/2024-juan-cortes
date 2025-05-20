@@ -6,14 +6,6 @@ source('dependencies.R')
 # load all packages
 lapply(required_packages, require, character.only = TRUE)
 
-# Authorize connection to google sheets
-options(
-  # whenever there is one account token found, use the cached token
-  gargle_oauth_email = TRUE,
-  # specify auth tokens should be stored in a hidden directory ".secrets"
-  gargle_oauth_cache = ".secrets"
-)
-
 # UI HELPER FUNCTION -----------------------------------
 
 metric_card <- function(title, value, showcase = NULL, description = NULL, color = "#5e81ac") {
