@@ -38,6 +38,8 @@ page_navbar(
         width = 3,
         tags$div(HTML("<h3 style='color:#2B388F;text-align:center'><b>Welcome to the CHC CFO Sign-in Dashboard</b></h3>")),
         br(),
+        tags$div(HTML("<h4 style='text-align:center'><b>Capstone Demonstration Version</b></h4>")),
+        br(),
         tags$div(HTML("<p><b><i>This summary report captures information about walk-in student visits to the Chico State campus  
                     Student Services Center (SSC) CalFresh Outreach (CFO) office.</i></b></p>")),
         br(),
