@@ -52,6 +52,5 @@ Pending steps include:
 Yes
 
 # Public Display/dissemination
-Live app URL: https://chicodatascience.shinyapps.io/CFOChico-Office-Visit-Tracker/
-
+Live app URL:
 # License
